@@ -1,6 +1,8 @@
 # SneakDance
 放置中に使えそうなやつ
 
+![image.gif](https://raw.githubusercontent.com/SimplyRin/SneakDance/master/img/image.gif)
+
 # Command
 /sneakdance : SneakDance の有効/無効を切り替えます。
 
