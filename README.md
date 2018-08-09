@@ -3,6 +3,7 @@
 
 # Command
 /sneakdance : SneakDance の有効/無効を切り替えます。
+
 /sneakdance delay : Sneak する間隔(ms)を指定します。
 
 # Download
