@@ -57,12 +57,12 @@ public class Main {
 	}
 
 	@SubscribeEvent
-    public void onLogin(FMLNetworkEvent.ClientConnectedToServerEvent event) {
+	public void onLogin(FMLNetworkEvent.ClientConnectedToServerEvent event) {
 		this.connected = true;
 	}
 
 	@SubscribeEvent
-    public void onLogout(FMLNetworkEvent.ClientDisconnectionFromServerEvent event) {
+	public void onLogout(FMLNetworkEvent.ClientDisconnectionFromServerEvent event) {
 		this.connected = false;
 	}
 
